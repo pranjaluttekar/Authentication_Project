@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Episode-9\ApiOne.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Episode 4\Basics.csproj" />
+    <None Include="Episode 5678\API\Api.csproj" />
+    <None Include="Episode 5678\Client\Client.csproj" />
+    <None Include="Episode 5678\Server\Server.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Episode-123\" />
+  </ItemGroup>
+
+</Project>

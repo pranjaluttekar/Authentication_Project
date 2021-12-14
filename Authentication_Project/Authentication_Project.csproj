@@ -1,0 +1,76 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Authentication\Episode-123\.vs\VSWorkspaceState.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="Authentication\Authentication.csproj" />
+    <None Include="Authentication\Episode 4\Basics.csproj" />
+    <None Include="Authentication\Episode 5678\API\Api.csproj" />
+    <None Include="Authentication\Episode 5678\Client\Client.csproj" />
+    <None Include="Authentication\Episode 5678\Server\Server.csproj" />
+    <None Include="Authentication\Episode-123\.git\config" />
+    <None Include="Authentication\Episode-123\.git\description" />
+    <None Include="Authentication\Episode-123\.git\HEAD" />
+    <None Include="Authentication\Episode-123\.git\hooks\applypatch-msg.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\commit-msg.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\post-update.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\pre-applypatch.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\pre-commit.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\pre-merge-commit.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\pre-push.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\pre-rebase.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\pre-receive.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="Authentication\Episode-123\.git\hooks\update.sample" />
+    <None Include="Authentication\Episode-123\.git\index" />
+    <None Include="Authentication\Episode-123\.git\info\exclude" />
+    <None Include="Authentication\Episode-123\.git\logs\HEAD" />
+    <None Include="Authentication\Episode-123\.git\logs\refs\heads\master" />
+    <None Include="Authentication\Episode-123\.git\logs\refs\remotes\origin\HEAD" />
+    <None Include="Authentication\Episode-123\.git\objects\pack\pack-9ab4827a525af2add524b75593e62e8ee4ff5ec9.idx" />
+    <None Include="Authentication\Episode-123\.git\objects\pack\pack-9ab4827a525af2add524b75593e62e8ee4ff5ec9.pack" />
+    <None Include="Authentication\Episode-123\.git\packed-refs" />
+    <None Include="Authentication\Episode-123\.git\refs\heads\master" />
+    <None Include="Authentication\Episode-123\.git\refs\remotes\origin\HEAD" />
+    <None Include="Authentication\Episode-123\.vs\Authentication\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="Authentication\Episode-123\.vs\slnx.sqlite" />
+    <None Include="Authentication\Episode-123\Authentication.sln" />
+    <None Include="Authentication\Episode-123\Authentication\Basics.csproj" />
+    <None Include="Authentication\Episode-123\IdentityExample-BDAT\IdentityExample-BDAT.csproj" />
+    <None Include="Authentication\Episode-9\ApiOne.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Authentication\bin\Debug\netcoreapp3.1\" />
+    <Folder Include="Authentication\bin\Release\netcoreapp3.1\" />
+    <Folder Include="Authentication\Episode 4\bin\Debug\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 4\bin\Release\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\API\bin\Debug\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\API\bin\Release\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\bin\Debug\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\bin\Release\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\Client\bin\Debug\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\Client\bin\Release\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\Server\bin\Debug\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode 5678\Server\bin\Release\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode-123\.git\objects\info\" />
+    <Folder Include="Authentication\Episode-123\.git\refs\tags\" />
+    <Folder Include="Authentication\Episode-123\.vs\Authentication\v16\" />
+    <Folder Include="Authentication\Episode-123\.vs\Episode-123\v16\" />
+    <Folder Include="Authentication\Episode-123\Authentication\bin\Debug\netcoreapp3.1\" />
+    <Folder Include="Authentication\Episode-123\Authentication\bin\Release\netcoreapp3.1\" />
+    <Folder Include="Authentication\Episode-123\IdentityExample-BDAT\bin\Debug\netcoreapp3.1\" />
+    <Folder Include="Authentication\Episode-123\IdentityExample-BDAT\bin\Release\netcoreapp3.1\" />
+    <Folder Include="Authentication\Episode-9\bin\Debug\netcoreapp3.0\" />
+    <Folder Include="Authentication\Episode-9\bin\Release\netcoreapp3.0\" />
+  </ItemGroup>
+
+</Project>
